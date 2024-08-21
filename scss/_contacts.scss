@@ -8,7 +8,8 @@
   }
   footer {
     background: rgba(0, 0, 0, 0.9);
-    text-align: center;
+    display: flex;
+    justify-content: center;
     padding: 10px;
     color: $white-opacity;
     font-size: 12px;
